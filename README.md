@@ -23,4 +23,5 @@ The framework works as follows:
 - If all requirements are met, the manager agent returns the new program data to the user.
 
 # For contribution , please make a fork or issue
-PS: being honest , this is my first project on github , and i havent used it much , im just a first year student 
+PS: being honest , this is my first project on github , and i havent used it much , im just a first year student .
+- if submiting code , please make sure it have comments to describe what it is used for.
