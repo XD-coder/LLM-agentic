@@ -1,5 +1,5 @@
 # LLM-agentic
-agentic workflow for LLMs
+agentic workflow for LLMs (without langchain)
 
 This repository contains code for a multi-agent framework that is specialised for programming purposes.
 
